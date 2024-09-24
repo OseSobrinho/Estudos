@@ -60,7 +60,9 @@ while True:
         print("==========================================")
 
     elif opcao == "0":
+        print("Obrigado por utilizar os nossos serviços")
         break
+        
 
     else:
         print("Operação inválida, por favor selecione novamente a operação desejada.")
